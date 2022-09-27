@@ -7,5 +7,4 @@ squary.pencolor("red")
 for i in range(200):
     squary.left 
 
-    # new code added 
-    #fghbjkjhgvhbj
+   
